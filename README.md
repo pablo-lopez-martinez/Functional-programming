@@ -9,6 +9,7 @@ This repository contains a series of simple exercises designed to help you learn
 In this repository, you will find the following elements:
 
 Practices from 1-12: These set of folders contain multiple exercises for understanding the fundamentals of Ocaml from basic sintax to list handling and more complex algorithms.
+Combat: A competitive test to create an algorithm for an squirrel to cross a matrix with trees and arrive at the end point using backtracking.
 
 ## Instructions 
 
