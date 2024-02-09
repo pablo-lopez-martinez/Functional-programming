@@ -6,7 +6,7 @@ This repository contains a series of simple exercises designed to help you learn
 
 ## Contents
 
-In this repository, you will find the following elements:
+In this repository, you will find the following elements:\n
 Practices from 1-12: These set of folders contain multiple exercises for understanding the fundamentals of Ocaml from basic sintax to list handling and more complex algorithms.
 
 ## Instructions 
