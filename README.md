@@ -12,4 +12,6 @@ Practices from 1-12: These set of folders contain multiple exercises for underst
 ## Instructions 
 
 Clone this repository to your local machine using the following command:
-   ```git clone https://github.com/pablo-lopez-martinez/Functional-programming.git
+   ```bash
+   git clone https://github.com/pablo-lopez-martinez/Functional-programming.git
+   ```
